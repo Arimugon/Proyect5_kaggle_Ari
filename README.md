@@ -1,4 +1,6 @@
 # Proyect5_kaggle_Ari
+![salary-negotiations](https://user-images.githubusercontent.com/113017465/205659890-6c6c26b4-2340-4305-85b5-3872793c31c3.jpg)
+
 
 # OBJETIVO:
 Este proyecto consisite en participar en una competición de Kaggle para intentar crear un modelo de aprendizaje automático (Machine Learning) sobre predicción de salarios.
